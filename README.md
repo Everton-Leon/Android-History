@@ -3,6 +3,6 @@ Este repositório contém o código-fonte e os recursos utilizados no projeto "A
 
 Estrutura do Projeto:
 
-<strong>HTML:</strong> Utilizamos HTML5 para estruturar o conteúdo de forma semântica, garantindo uma organização lógica e acessível.
-<strong>CSS:</strong> O estilo do site foi construído com CSS3, incorporando princípios de design modernos para uma experiência visual atraente.
-<strong>Responsividade:</strong> Implementamos design responsivo para garantir que o site seja igualmente cativante em telas de diferentes tamanhos.
+<strong>HTML:</strong> Utilizamos HTML5 para estruturar o conteúdo de forma semântica, garantindo uma organização lógica e acessível. <br>
+<strong>CSS:</strong> O estilo do site foi construído com CSS3, incorporando princípios de design modernos para uma experiência visual atraente. <br>
+<strong>Responsividade:</strong> Implementamos design responsivo para garantir que o site seja igualmente cativante em telas de diferentes tamanhos. <br>
